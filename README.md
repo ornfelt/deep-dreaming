@@ -1,0 +1,3 @@
+Based on: https://pythonprogramming.net/deep-dream-video-python-playing-neural-network-tensorflow/?completed=/deep-dream-frames-python-playing-neural-network-tensorflow/
+
+https://deepdreamgenerator.com/ was used to generate some images...
